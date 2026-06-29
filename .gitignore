@@ -1,0 +1,57 @@
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+*.swp
+
+# Linux
+.directory
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Geany
+.geany/
+
+# Test output
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Generated documentation
+docs/_build/
+
+# Local configuration
+config.local.json
+```
+
